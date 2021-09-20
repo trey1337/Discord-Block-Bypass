@@ -2,6 +2,8 @@
 
 <p align='center'> A simple that utlitizes discords flaw in detecting who blocked who....</p>
 
+<h4 align="center"> prob don't work anymore :p </h4>
+
 <p align='center'> ------ </p>
 
 <p align='center'>• Why<br>
